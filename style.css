@@ -1,0 +1,23 @@
+#h1{
+    margin-left: 500px;
+}
+.calcu{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(38, 14, 39);
+    margin-left: 350px;
+    border: rgb(0, 0, 0) solid 5px;
+    margin-top: 100px;
+}
+#screen{
+    height: 30px;
+    margin-left: 150px;
+    pointer-events: none;
+}
+.btn{
+    width: 50px;
+    height: 40px;
+    margin-left: 60px;
+   background-color: rgb(7, 50, 63);
+   color: aliceblue;
+}
